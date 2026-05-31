@@ -1,0 +1,22 @@
+{
+  "Name": "Кафе на пристани",
+  "Address": "ул. Гагарина, 22",
+  "Type": "Cafe",
+  "CurrentMenu": {
+    "Dishes": [
+      {
+        "Name": "Эспрессо",
+        "Price": 100,
+        "Category": "Drink"
+      },
+      {
+        "Name": "Чизкейк",
+        "Price": 250,
+        "Category": "Dessert"
+      }
+    ]
+  },
+  "FilePath": "",
+  "IsSeasonal": false,
+  "SeasonalDishes": []
+}

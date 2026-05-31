@@ -1,0 +1,22 @@
+{
+  "Name": "Итальянский дворик",
+  "Address": "ул. Пушкина, 10",
+  "Type": "Restaurant",
+  "CurrentMenu": {
+    "Dishes": [
+      {
+        "Name": "Пицца Маргарита",
+        "Price": 450,
+        "Category": "Hot"
+      },
+      {
+        "Name": "Лазанья",
+        "Price": 520,
+        "Category": "Hot"
+      }
+    ]
+  },
+  "FilePath": "",
+  "IsSeasonal": false,
+  "SeasonalDishes": []
+}

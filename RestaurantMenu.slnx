@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Model/Model.csproj" Id="55a9f70e-a0b5-4f30-83ec-b1611f004955" />
+  <Project Path="RestaurantMenu.csproj" Id="8155134c-3202-448a-92d3-6ba05a4bc879" />
+</Solution>

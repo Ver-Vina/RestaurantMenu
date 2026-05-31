@@ -1,0 +1,22 @@
+{
+  "Name": "Кофе и круассаны",
+  "Address": "пр. Ленина, 5",
+  "Type": "CoffieShop",
+  "CurrentMenu": {
+    "Dishes": [
+      {
+        "Name": "Капучино",
+        "Price": 180,
+        "Category": "Drink"
+      },
+      {
+        "Name": "Круассан",
+        "Price": 120,
+        "Category": "Dessert"
+      }
+    ]
+  },
+  "FilePath": "",
+  "IsSeasonal": false,
+  "SeasonalDishes": []
+}

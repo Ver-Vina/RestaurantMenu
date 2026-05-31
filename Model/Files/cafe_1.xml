@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cafe>
+	<Name>Летняя терраса</Name>
+	<Address>ул. Морская, 7</Address>
+	<Type>Cafe</Type>
+	<CurrentMenu>
+		<Dishes>
+			<Dish>
+				<Name>Греческий салат</Name>
+				<Price>350</Price>
+				<Category>Cold</Category>
+			</Dish>
+		</Dishes>
+	</CurrentMenu>
+	<FilePath></FilePath>
+	<IsSeasonal>true</IsSeasonal>
+	<SeasonalDishes>
+		<Dish>
+			<Name>Окрошка</Name>
+			<Price>250</Price>
+			<Category>Cold</Category>
+		</Dish>
+		<Dish>
+			<Name>Арбуз</Name>
+			<Price>300</Price>
+			<Category>Dessert</Category>
+		</Dish>
+	</SeasonalDishes>
+</Cafe>
